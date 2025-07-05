@@ -1,6 +1,4 @@
 /*
-  PaperMod v8+
-  License: MIT https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE
-  Copyright (c) 2020 nanxiaobei and adityatelange
-  Copyright (c) 2021-2025 adityatelange
+dylankeath.com - v.0.0.1
+© 2025–– DK Holdings PTY LTD (Aust.)
 */
