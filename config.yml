@@ -1,5 +1,5 @@
-baseURL: "https://dylankeath.com/" 
-title: Dylan Keath
+baseURL: "dylankeath.com" 
+title: dylan keath
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,12 +29,12 @@ menu:
           weight: 6
 
 params:
-    description: "This website is Dylan Keath's Static Page"
+    description: "Dylan Keath's Website"
     author: Dylan Keath
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -42,72 +42,33 @@ params:
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
-    UseHugoToc: true
+    UseHugoToc: false
     comments: false
     math: true
     profileMode:
           enabled: true
-          title: Mr Dylan Keath
-          subtitle: "I am a Student at Deakin University, Australia."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: dylan keath
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:dylan@dylankeath.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
-
+            - name: email
+              url: mailto:dylan@dylankeath.com/
+            - name: linkedin
+              url: https://www.linkedin.com/in/dylan-keath/
+           
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "dylan keath"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 15
 
 markup:
     goldmark:
