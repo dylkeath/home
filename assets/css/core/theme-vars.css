@@ -1,12 +1,12 @@
 :root {
-    --gap: 24px;
-    --content-gap: 20px;
+    --gap: 2px;
+    --content-gap: 2px;
     --nav-width: 1024px;
     --main-width: 720px;
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
+    --theme: #FFFCFB;
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
@@ -17,7 +17,7 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
     --darkcolor: #6a7ba2;
-    --lightcolor: #cbd1de;
+    --lightcolor: #FFFCFB;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
