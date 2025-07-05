@@ -41,7 +41,7 @@
 
 /* Each button */
 .button {
-    background: #066ff5;
+    background: #F7F5F4;
     border-radius: var(--radius);
     padding: 15px;
     min-width: 90px;
@@ -55,5 +55,5 @@
 }
 
 .button:hover {
-    background: #F7F5F4;
+    background: #9bc6fd;
 }
