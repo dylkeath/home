@@ -36,14 +36,14 @@
     font-weight: bold;
     justify-content: center;
     width: 100%;
-    gap: 5px;
+    gap: 10px;
 }
 
 /* Each button */
 .button {
     background: #F7F5F4;
     border-radius: var(--radius);
-    padding: 15px;
+    padding: 13px;
     min-width: 100px;
     max-width: 125px;
     text-align: center;
