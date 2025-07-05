@@ -56,9 +56,9 @@ params:
           title: dylan keath
           buttons:
             - name: email
-              url: mailto:dylan@dylankeath.com/
+              url: mailto:dylan@dylankeath.com
             - name: linkedin
-              url: https://www.linkedin.com/in/dylan-keath/
+              url: https://www.linkedin.com/in/dylan-keath
            
     assets:
         disableScrollBarStyle: true
