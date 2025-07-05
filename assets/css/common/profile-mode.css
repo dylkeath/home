@@ -24,7 +24,7 @@
 /* Title */
 .profile .profile_inner h1 {
     font-size: 5rem;
-    font-weight: black;
+    font-weight: primary;
     margin: 0;
     width: 100%;
 }
@@ -55,5 +55,5 @@
 }
 
 .button:hover {
-    background: #E7E6E5;
+    background: #1479fa;
 }
