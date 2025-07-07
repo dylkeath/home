@@ -55,7 +55,7 @@ params:
           enabled: true
           title: dylan keath
           buttons:
-            - name: email
+            - name: contact
               url: mailto:dylan@dylankeath.com
             - name: linkedin
               url: https://www.linkedin.com/in/dylan-keath/
